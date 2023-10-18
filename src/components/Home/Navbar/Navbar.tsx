@@ -24,13 +24,16 @@ const Navbar = () => {
                   Home
                 </Menu.Item>
                 <Menu.Item key="2" icon={<AppstoreOutlined />}>
-                  Services
+                  Venue
                 </Menu.Item>
                 <Menu.Item key="3" icon={<UserOutlined />}>
-                  About
+                  Suppliers
                 </Menu.Item>
                 <Menu.Item key="4" icon={<SettingOutlined />}>
-                  Contact
+                  About
+                </Menu.Item>
+                <Menu.Item key="5" icon={<SettingOutlined />}>
+                  Contact Us
                 </Menu.Item>
               </Menu>
             </Col>
